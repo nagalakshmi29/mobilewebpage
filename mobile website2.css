@@ -1,0 +1,33 @@
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/digital-mobile-smartphone-technology-background-with-circuit-diagram_1017-21004.jpg?w=1060&t=st=1672309665~exp=1672310265~hmac=1e0e518cd6e29598014bfe9dc16c835e66dd02b1d50e219657394b2b6fd371d1.jpg');
+	background-size: cover;
+	height: 200vh;
+}
+.mobilehead{
+	color: white;
+	font-family: 'roboto';
+	font-weight:bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard{
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color: #041836;
+	font-family: 'roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara{
+	color: black;
+	font-family: 'roboto';
+	font-size: 15px;
+}
